@@ -13,3 +13,4 @@
 - board
 ![board](https://github.com/ArashPamazari/21-CV/assets/87909442/2c7380e2-5a0d-48b0-bdcc-a64def8a5e85)
 - letter 
+![Character A](https://github.com/ArashPamazari/21-CV/assets/87909442/5b01daa5-1a2c-4c4b-8b5a-68ede29dc084)
