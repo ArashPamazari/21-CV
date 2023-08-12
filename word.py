@@ -24,5 +24,4 @@ cv2.line(img, (point1[0], horizontal_line[1]), (point3[0], horizontal_line[1]), 
 
 
 cv2.imwrite('Character A.jpg', img)
-cv2.waitKey(0)
-cv2.destroyAllWindows()
+
